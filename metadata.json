@@ -1,0 +1,6 @@
+{
+  "name": "SIH26034 Enforcement Portal - LMPC & FSSAI Compliance",
+  "description": "Real-time Legal Metrology and FSSAI commodity label compliance enforcement portal with Gemini AI processing and advanced data analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
